@@ -10,5 +10,5 @@ int main(){
         printf("Not Eligible");
     }
     else printf("Not Eligible");
-    retutrn 0;
+    return 0;
 }
